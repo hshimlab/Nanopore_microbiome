@@ -1,0 +1,527 @@
+species,type,note,link
+Clostridium bolteae,harmful,,https://www.researchgate.net/publication/336919730_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Clostridium indolis,harmful,,https://www.researchgate.net/publication/336919731_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Clostridium ramosum,harmful,,https://www.researchgate.net/publication/336919732_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Clostridium difficile,harmful,,https://www.researchgate.net/publication/336919733_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Clostridium perfringens,harmful,,https://www.researchgate.net/publication/336919734_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Fusobacterium nucleatum subsp. nucleatum,harmful,,https://www.researchgate.net/publication/336919735_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Actinobacteria,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01144/full
+"Firmicutes (Faecalibacterium praunsnitzii, Clostridium clusters XIVa and IV)",harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01145/full
+Proteobacteria (escherichia coli),harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01146/full
+Faecalibacterium,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01147/full
+Ruminococcus,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01148/full
+Clostridium,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01149/full
+Lachnospiraceae,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01150/full
+Eubacteriaceae,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01151/full
+Bacteroidetes,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01152/full
+Alistipes,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01153/full
+Akkermansia,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01154/full
+Sutterellaceae,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01155/full
+Enterobacteriaceae,harmful,"not sure, might not be reliable",https://www.frontiersin.org/articles/10.3389/fmicb.2016.01156/full
+Enterococcus faecalis ATCC700802,beneficial,,https://www.researchgate.net/publication/336919730_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactobacillus casei subsp. casei JCM1134,beneficial,,https://www.researchgate.net/publication/336919731_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactobacillus casei subsp. rhamnosus,beneficial,,https://www.researchgate.net/publication/336919732_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactobacillus gasseri JCM1130,beneficial,,https://www.researchgate.net/publication/336919735_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactobacillus johnsonii JCM8794,beneficial,,https://www.researchgate.net/publication/336919736_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactobacillus plantarum JCM1158,beneficial,,https://www.researchgate.net/publication/336919737_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactobacillus reuteri JCM1149,beneficial,,https://www.researchgate.net/publication/336919738_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Lactococcus lactis JCM1112,beneficial,,https://www.researchgate.net/publication/336919739_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Leuconostoc mesenteroides subsp. mesenteroides,beneficial,,https://www.researchgate.net/publication/336919740_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacteria Bifidobacterium adolescentis JCM1275,beneficial,,https://www.researchgate.net/publication/336919743_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium animalis subsp. lactis,beneficial,,https://www.researchgate.net/publication/336919744_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium bifidum JCM1254,beneficial,,https://www.researchgate.net/publication/336919747_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium breve JCM1192,beneficial,,https://www.researchgate.net/publication/336919748_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium catenulatum JCM1194,beneficial,,https://www.researchgate.net/publication/336919749_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium infantis ATCC15697,beneficial,,https://www.researchgate.net/publication/336919750_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium longum JCM1217,beneficial,,https://www.researchgate.net/publication/336919751_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium pseudocatenulatum,beneficial,,https://www.researchgate.net/publication/336919752_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bifidobacterium pseudolongum,beneficial,,https://www.researchgate.net/publication/336919755_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides caccae JCM9498,beneficial,,https://www.researchgate.net/publication/336919755_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides dorei JCM13471,beneficial,,https://www.researchgate.net/publication/336919756_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides finegoldii JCM13345,beneficial,,https://www.researchgate.net/publication/336919757_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides fragilis JCM11019,beneficial,,https://www.researchgate.net/publication/336919758_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides intestinalis JCM13265,beneficial,,https://www.researchgate.net/publication/336919759_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides ovatus JCM5824,beneficial,,https://www.researchgate.net/publication/336919760_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides stercoris JCM9496,beneficial,,https://www.researchgate.net/publication/336919761_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides thetaiotaomicron JCM5827,beneficial,,https://www.researchgate.net/publication/336919762_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides uniformis JCM5828,beneficial,,https://www.researchgate.net/publication/336919763_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides vulgatus JCM5826,beneficial,,https://www.researchgate.net/publication/336919764_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides xylanisolvens JCM15633,beneficial,,https://www.researchgate.net/publication/336919765_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Blautia hansenii JCM14655,beneficial,,https://www.researchgate.net/publication/336919766_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Clostridium asparagiforme DSM15981,beneficial,,https://www.researchgate.net/publication/336919767_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Clostridium nexile ATCC27757,beneficial,,https://www.researchgate.net/publication/336919768_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Collinsella aerofaciens JCM7790,beneficial,,https://www.researchgate.net/publication/336919769_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Coprococcus comes ATCC27758,beneficial,,https://www.researchgate.net/publication/336919770_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Dorea formicigenerans ATCC27755,beneficial,,https://www.researchgate.net/publication/336919771_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Dorea longicatena DSM13814,beneficial,,https://www.researchgate.net/publication/336919772_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Eubacterium cylindroides JCM10261,beneficial,,https://www.researchgate.net/publication/336919773_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Eubacterium siraeum ATCC29066,beneficial,,https://www.researchgate.net/publication/336919774_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Parabacteroides distasonis JCM5825,beneficial,,https://www.researchgate.net/publication/336919775_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Parabacteroides johnsonii JCM13406,beneficial,,https://www.researchgate.net/publication/336919776_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Parabacteroides merdae JCM9497,beneficial,,https://www.researchgate.net/publication/336919777_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Roseburia intestinalis DSM14610,beneficial,,https://www.researchgate.net/publication/336919778_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Ruminococcus gnavus ATCC29149,beneficial,,https://www.researchgate.net/publication/336919779_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Ruminococcus lactaris ATCC29176,beneficial,,https://www.researchgate.net/publication/336919780_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Ruminococcus productus JCM1471,beneficial,,https://www.researchgate.net/publication/336919781_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Ruminococcus torques ATCC27756,beneficial,,https://www.researchgate.net/publication/336919782_Measuring_the_Antimicrobial_Activity_of_Lauric_Acid_against_Various_Bacteria_in_Human_Gut_Microbiota_Using_a_New_Method
+Bacteroides xylanisolvens,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02029/full
+Lactobacillus mucosae,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02030/full
+Lactobacillus runminis,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02031/full
+Bacteroides intestinalis,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02032/full
+Lactobacillus salivarius,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02033/full
+Lactobacillus gasseri*,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02034/full
+Eubacterium coprostanoligenes,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02035/full
+Tetragenococcus halophilus,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02036/full
+Lactobacillus acidophilus,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02037/full
+Lactococcus lactis,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02038/full
+Bifidobacterium longum,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02039/full
+Bifidobacterium pseudocatenulatum,beneficial,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02040/full
+Bacteroides vulgatus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02041/full
+Faecalibacterium prausnitzii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02042/full
+Parabacteroides merdae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02043/full
+Eubacterium rectale,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02044/full
+Escherichia coli*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02045/full
+Roseburia faecis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02046/full
+Phascolarctobacterium faecium,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02047/full
+Bacteroides ovatus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02048/full
+Alistipes shahii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02049/full
+Roseburia intestinalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02050/full
+Parasutterella excrementihominis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02051/full
+Eubacterium eligens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02052/full
+Ruminococcus bromii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02053/full
+Lactobacillus rogosae*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02054/full
+Prevotella copri,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02055/full
+Anaerostipes hadrus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02056/full
+Bacteroides massilliensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02057/full
+Bacteroides dorei,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02058/full
+Ruminococcus faecis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02059/full
+Sphingomonas echinoides,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02060/full
+Bacteroides stercoris,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02061/full
+Dorea formicigenerans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02062/full
+Ochrobactrum cytisi*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02063/full
+Fusicatenibacter saccharivorans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02064/full
+Sutterella wadswothensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02065/full
+Sphingomonas melonis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02066/full
+Bacteroides thetaiotaomicron,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02067/full
+Bacteroides coprophilus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02068/full
+Blautia obeum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02069/full
+Eubacterium hallii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02070/full
+Roseburia inulinivorans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02071/full
+Holdemanella biformis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02072/full
+Bacteroides cellulosilyticus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02073/full
+Eubacterium siraeum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02074/full
+Coprobacter fastidiosus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02075/full
+Intestinibacter bartlettii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02076/full
+Subdoligranulum variabile,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02077/full
+Ruminococcus callidus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02078/full
+Tsukamurella spongiae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02079/full
+Blautia wexlerae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02080/full
+Phascolarctobacterium succinatutens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02081/full
+Ruminococcus lactaris,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02082/full
+Bacteroides clarus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02083/full
+Blautia stercoris,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02084/full
+Eubacterium hadrum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02085/full
+Butyrivibrio crossotus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02086/full
+Coprobacter secundus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02087/full
+Alistipes indistinctus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02088/full
+Romboutsia ilealis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02089/full
+Holdemania filiformis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02090/full
+Catenibacterium mitsuokai,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02091/full
+Serratia quinivorans*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02092/full
+Parabacteroides johnsonii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02093/full
+Enterobacter muelleri,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02094/full
+Anaerotruncus colihominis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02095/full
+Jeotgalicoccus halotolerans*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02096/full
+Butyricimonas faecihominis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02097/full
+Pseudomonas gessardii*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02098/full
+Parasutterella secunda,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02099/full
+Bacteroides finegoldii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02100/full
+Barnesiella intestinihominis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02101/full
+Blautia luti,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02102/full
+Citrobacter werkmanii *,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02103/full
+Citrobacter gillenii*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02104/full
+Oxalobacter formigenes,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02105/full
+Clostridium lactatifermentans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02106/full
+Streptococcus gordonii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02107/full
+Asaccharobacter celatus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02108/full
+Howardella ureilytica,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02109/full
+Methylobacterium phyllosphaerae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02110/full
+Blautia hansenii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02111/full
+Coprobacillus cateniformis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02112/full
+Planomicrobium chinense,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02113/full
+Parabacteroides faecis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02114/full
+Alistipes inops,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02115/full
+Clostridium glycyrrhizinilyticum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02116/full
+Weissella confusa*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02117/full
+Pelomonas aquatica,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02118/full
+Acidaminococcus fermentans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02119/full
+Aggregatibacter segnis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02120/full
+Romboutsia lituseburensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02121/full
+Sellimonas intestinalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02122/full
+Pyramidobacter  piscolens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02123/full
+Senegalimassillia anaerobia,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02124/full
+Clostridium butyricum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02125/full
+Brachybacterium paraconglomeratum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02126/full
+Sutterella parvirubra,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02127/full
+Hungatella effluvii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02128/full
+Kocuria carniohila*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02129/full
+Microbacterium esteraomaticum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02130/full
+Aflipia broomeae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02131/full
+Pseudochrobactrums saccharolyticum *,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02132/full
+Eubacterium oxidoreducens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02133/full
+Bacteroides barnesiae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02134/full
+Butyricimonas paravirosa,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02135/full
+Succinatimonas hippei,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02136/full
+Enterobacter xiangfangensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02137/full
+Enhydrobacter aerosaccus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02138/full
+Mesorhizobium jarvisii*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02139/full
+Taonella mepensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02140/full
+Eubacterium sulci,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02141/full
+Clostridium citroniae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02142/full
+Clostridium scindens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02143/full
+Sphingomonas hankookensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02144/full
+Bacteroides plebeius,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02145/full
+Eubacterium desmolans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02146/full
+Micrococcus endophyticus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02147/full
+Eubacterium contortum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02148/full
+Dietzia cercidiphylli*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02149/full
+Desulfovibrio legallii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02150/full
+Lactobacillus sanfranciscensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02151/full
+Kluyvera georgiana,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02152/full
+Pelomonas puraquae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02153/full
+Olsenella scatoligenes,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02154/full
+Eubacterium dolichum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02155/full
+Bacteroides coagulans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02156/full
+Flavobacterium mizutaii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02157/full
+Lactobacillus crispatus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02158/full
+Treponema succinifaciens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02159/full
+Lactonifactor longoviformis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02160/full
+Brevundimonas aurantiaca,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02161/full
+Microbacterium sediminicola,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02162/full
+Phyllobacterium myrsinacearum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02163/full
+Bacteroides sartorii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02164/full
+Clostridium chartatabidum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02165/full
+Kocuria palustris,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02166/full
+Anaerococcus murdochii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02167/full
+Sphingobacterium nematocida,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02168/full
+Glutamicibacter protophormiae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02169/full
+Prevotella buccalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02170/full
+Psychrobacter alimentarius,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02171/full
+Herbaspirillum huttiense,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02172/full
+Bradyrhizobium icense,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02173/full
+Collinsella intestinalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02174/full
+Desemzia incerta,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02175/full
+Cloacibacillus porcorum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02176/full
+Comamonas denitrificans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02177/full
+Brachybacterium ginsengisoli,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02178/full
+Bacteroides pectinophilus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02179/full
+Vampirovibrio chlorellavorus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02180/full
+Empedobacter falsenii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02181/full
+Aggregatibacter aphrophillus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02182/full
+Haemophilus sputorum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02183/full
+Aeromonas punctata*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02184/full
+Methyloversatilis discipulorum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02185/full
+Paracoccus haeundaensis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02186/full
+Brevundimonas bullata,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02187/full
+Phenylobacterium faslum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02188/full
+Sphingomonas glacialis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02189/full
+Rhodococcus degradans*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02190/full
+Slackia piriformis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02191/full
+Staphylococcus captis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02192/full
+Lactobacillus delbrueckii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02193/full
+Cloacibacillus evryensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02194/full
+Alistipes putredinis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02195/full
+Bacteroides galacturonicus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02196/full
+Leuconostoc citreum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02197/full
+Anaerostipes caccae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02198/full
+Clostridium hiranonis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02199/full
+Pseudomonas tolaasii *,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02200/full
+Aquabacterium citratiphium,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02201/full
+Eubacterium xylanophilum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02202/full
+Peptoniphilus duerdenii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02203/full
+Psychrobacter namhaensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02204/full
+Arthrobacter russicus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02205/full
+Pseudomonas parafulva*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02206/full
+Moryella indoligenes,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02207/full
+Clostridium ventriculi,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02208/full
+Anaerococcus octavius,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02209/full
+Prevotella timonensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02210/full
+Bacteroides stercorirosoris,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02211/full
+Cytophaga hutchinsonii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02212/full
+Vibrio natriegens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02213/full
+Thauera terpenica,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02214/full
+Massilia norwichensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02215/full
+Brevibacterium samyangense,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02216/full
+Lactobacillus xiangfangensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02217/full
+Streptococcus peroris,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02218/full
+Sphingobacterium alimentarium,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02219/full
+Pseudocitrobacter anthropi*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02220/full
+Obesumbacterium proteus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02221/full
+Pseudomonas yamanorum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02222/full
+Pseudomonas fragi*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02223/full
+Psychrobacter maritimus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02224/full
+Aquincola tertiaricarbonis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02225/full
+Herminiimonas contaminans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02226/full
+Uruburuella suis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02227/full
+Pseudoxanthomonas broegbernensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02228/full
+Ensifer morelensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02229/full
+Caulobacter vibrioides*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02230/full
+Dietzia kunjamensis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02231/full
+Leucobacter aridicollis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02232/full
+Bacillus simplex*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02233/full
+Bacillus altitudinis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02234/full
+Sporosatcina siberiensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02235/full
+Planococcus koreense,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02236/full
+Lactobacillus curvatus*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02237/full
+Lactobacillus agilis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02238/full
+Weissella paramesenteroides,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02239/full
+Thermus scotoductus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02240/full
+Murimonas intestini,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02241/full
+Stomatobaculum longum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02242/full
+Anaerostipes rhamnosivorans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02243/full
+Clostridium sardiniense,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02244/full
+Anaerofustis stercorihominis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02245/full
+Paeniclostridium bifermentans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02246/full
+Peptostreptococcus stomatis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02247/full
+Ezakiekka peruensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02248/full
+Anaerococcus vaginalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02249/full
+Ruminococcus champanellensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02250/full
+Prochlorococcus marinus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02251/full
+Prevotella dentalis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02252/full
+Prevotella corporis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02253/full
+Bacteroides faecichinchillae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02254/full
+Pantoea rodasii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02255/full
+Pseudomonas zhaodongensis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02256/full
+Psychrobacter cibarius,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02257/full
+Acidovorax wautersii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02258/full
+Variovorax paradoxus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02259/full
+Hydrogenophaga pesudoflava*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02260/full
+Sphaerotilus natans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02261/full
+Aquabacterium parvum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02262/full
+Massilia varians,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02263/full
+Massilia haematophila,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02264/full
+Paraburkholderia fungorum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02265/full
+Neisseria oralis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02266/full
+Pseudoxanthomonas japonensis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02267/full
+Stenotrophomonas rhizophila,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02268/full
+Thermomonas carbonis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02269/full
+Rhizobium metallidurans,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02270/full
+Aureimonas ureilytica,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02271/full
+Bradyrhizobium ganzhouense*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02272/full
+Bradyrhizobium neotropicale,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02273/full
+Rhodoplanes serenus*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02274/full
+Methylobacterium oryzae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02275/full
+Methylobacterium adhaesivum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02276/full
+Microvirga aerophila,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02277/full
+Bosea massiliensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02278/full
+Paracoccus sphaerophysae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02279/full
+Devosia limi,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02280/full
+Devosia chinhatensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02281/full
+Devosia riboflavina,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02282/full
+Hyphomicrobium facile,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02283/full
+Sphingomonas pseudosanguinis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02284/full
+Sphingomonas aestuarii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02285/full
+Sphingomonas koreensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02286/full
+Sphingomonas xenophagum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02287/full
+Sphingopyxis bauzanensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02288/full
+Novosphingobium capsulatum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02289/full
+Belnapia soli,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02290/full
+Bifidobacterium faecale,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02291/full
+Microlunatus phosphovorus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02292/full
+Arthrobacter globiformis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02293/full
+Micrococcus cohnii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02294/full
+Kocuria salsicia,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02295/full
+Pseudarthrobacter polychromogenes,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02296/full
+Georgenia satyanarayanai*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02297/full
+Microbacterium testaceum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02298/full
+Microbacterium deminutum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02299/full
+Microbacterium mitrae,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02300/full
+Microbacterium ginsengisoli,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02301/full
+Pseudoclavibacter helvolus*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02302/full
+Janibacter anophelis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02303/full
+Bacillus flexus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02304/full
+Bacillus galliciensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02305/full
+Chryseomicrobium amylolyticum,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02306/full
+Planococcus okeanokoites,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02307/full
+Listeria marthii,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02308/full
+Exiguobacterium aurantiacum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02309/full
+Lactobacillus plantarum*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02310/full
+Lactobacillus vaginalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02311/full
+Lactobacillus mindensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02312/full
+Lactobacillus farciminis*,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02313/full
+Enterococcus sulfureus,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02314/full
+Carnobacterium inhibens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02315/full
+Facklamia tabacinasalis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02316/full
+Leuconostoc lactis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02317/full
+Weissella viridescens,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02318/full
+Gemella asaccharolytica,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02319/full
+Deinococcus caeni,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02320/full
+Deinococcus reticulitermitis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02321/full
+Deinococcus wulumuqiensis,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02322/full
+Clostridium saccharogumia,commensal,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02323/full
+Parabacteroides distasonis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02323/full
+Bacteroides caccae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02324/full
+Dorea longicatena,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02325/full
+Bacteroides uniformis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02326/full
+Coprococcus comes,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02327/full
+Roseburia hominis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02328/full
+Haemophilus parainfluenzae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02329/full
+Streptococcus vestibularis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02330/full
+Klebsiella pneumoniae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02331/full
+Ruminococcus gnavus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02332/full
+Bacteroides fragilis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02333/full
+Ruminococcus torques,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02334/full
+Bilophila wadsworthia,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02335/full
+Pannonibacter phragmitetus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02336/full
+Butyricimonas virosa,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02337/full
+Turicibacter sanguinis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02338/full
+Granulicatella adiacens,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02339/full
+Bacteroides salyersiae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02340/full
+Desulfovibrio piger,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02341/full
+Bacteroides nordii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02342/full
+Comamonas kerstersii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02343/full
+Collinsella aerofaciens,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02344/full
+Alistipes onderdonkii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02345/full
+Fusobacterium mortiferum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02346/full
+Clostridium leptum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02347/full
+Bacteroides faecis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02348/full
+Enterobacter cancerogenus*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02349/full
+Clostridium bolteae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02350/full
+Streptococcus australis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02351/full
+Fusobacterium varium*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02352/full
+Streptococcus parasanguinis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02353/full
+Streptococcus infantis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02354/full
+Clostridium disporicum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02355/full
+Clostridium perfringens,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02356/full
+Clostridium ramosum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02357/full
+Campylobacter concisus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02358/full
+Parabacteroides goldsteinii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02359/full
+Propionibacterium acnes,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02360/full
+Enterobacter aerogenes,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02361/full
+Raoultella ornithinolytica,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02362/full
+Clostridium symbiosum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02363/full
+Delftia lacustris*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02364/full
+Clostridium paraputrificum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02365/full
+Enterobacter asburiae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02366/full
+Rhizobium radiobacter*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02367/full
+Klebsiella oxytoca*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02368/full
+Streptococcus oralis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02369/full
+Enterococcus faecium*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02370/full
+Clostridium lavalense,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02371/full
+Hungatella hathewayi,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02372/full
+Neisseria subflava*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02373/full
+Parabacteroides gordonii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02374/full
+Fusobacterium necrogenes,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02375/full
+Escherichia_Shigella group*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02376/full
+Brevundimonas diminuta,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02377/full
+Clostridium aldenense,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02378/full
+Fusobacterium nucleatum subsp.animalis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02379/full
+Kluyvera ascorbata,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02380/full
+Acidaminococcus intestini,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02381/full
+Streptococcus anginosus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02382/full
+Clostridium innocuum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02383/full
+Stenotrophomonas maltophilia *,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02384/full
+Eggerthella lenta,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02385/full
+Eisenbergiella tayi,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02386/full
+Streptococcus gallolyticus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02387/full
+Solobacterium moorei,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02388/full
+Parvimonas micra,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02389/full
+Granulicatella elegans,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02390/full
+Enterobacter cloacae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02391/full
+Burkholderia arboris*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02392/full
+Campylobacter jejuni,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02393/full
+Fusobacterium nucleatum subsp.nucleatum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02394/full
+Proteus mirabilis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02395/full
+Gemella haemolysans,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02396/full
+Oribacterium sinus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02397/full
+Kocuria polaris*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02398/full
+Peptostreptococcus anaerobuis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02399/full
+Rahnella aquatilis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02400/full
+Acinetobacter lwoffii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02401/full
+Bacillus cereus*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02402/full
+Staphylococcus hominis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02403/full
+Streptococcus sanguinis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02404/full
+Abiotrophia defectiva,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02405/full
+Haemophilus paraphrohaemolyticus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02406/full
+Achromobacter insuavis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02407/full
+Brevibacterium sanguinis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02408/full
+Gemella sanguinis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02409/full
+Fusobacterium nucleatum subsp.polymorphum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02410/full
+Ralstonia pickettii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02411/full
+Streptococcus downei*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02412/full
+Enterococcus faecalis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02413/full
+Blautia coccoides*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02414/full
+Acinetobacter johnsonii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02415/full
+Selenomonas noxia,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02416/full
+Staphylococcus gallinarum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02417/full
+Staphylococcus cohnii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02418/full
+Lactococcus garvieae*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02419/full
+Streptococcus mutans,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02420/full
+Finegoldia magna,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02421/full
+Alcaligenes faecalis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02422/full
+Aerococcus viridans*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02423/full
+Prevotella bivia,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02424/full
+Morganella morganii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02425/full
+Sneathia sanguinegens,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02426/full
+Peptoniphilus harei,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02427/full
+Neisseria elongata,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02428/full
+Campylobacter ureolyticus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02429/full
+Hafnia paralvei,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02430/full
+Arcobacter cryaerophilus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02431/full
+Porphyromonas endodontalis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02432/full
+Haemophilus pittmaniae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02433/full
+Achromobacter spanius*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02434/full
+Enterococcus casseliflavus*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02435/full
+Eubacterium infirmum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02436/full
+Mogibacterium pumilum*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02437/full
+Eubacterium nodatum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02438/full
+Prevotella baroniae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02439/full
+Vibrio furnissii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02440/full
+Acinetobacter berezineiae*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02441/full
+Mycobacterium aubagnense,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02442/full
+Brochothrix thermosphacta*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02443/full
+Enterococcus durans*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02444/full
+Streptococcus oligofermentans,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02445/full
+Streptococcus lutetiensis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02446/full
+Gemella morbillorum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02447/full
+Mycoplasma hominis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02448/full
+Acinetobacter junii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02449/full
+Lactobacillus iners,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02450/full
+Plesiomonas shigelloides,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02451/full
+Anaerococcus prevotii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02452/full
+Prevotella disiens,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02453/full
+Comamonas terrigena,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02454/full
+Propionibacterium granulosum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02455/full
+Prevotella bergensis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02456/full
+Streptococcus intermedius,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02457/full
+Fusobacterium gonidiaformans,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02458/full
+Campylobacter gracilis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02459/full
+Campylobacter hominis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02460/full
+Clostridium tertium,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02461/full
+Porphyromonas bennonis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02462/full
+Capnocytophaga granulosa,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02463/full
+Comamonas thiooxydans*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02464/full
+Neisseria sicca,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02465/full
+Eikenella corrodens,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02466/full
+Cardiobacterium hominis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02467/full
+Methylobacterium brachiatum*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02468/full
+Methylobacterium aminovorans*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02469/full
+Corynebacterium tuberculostearicum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02470/full
+Corynebacterium kroppenstedtii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02471/full
+Actinomyces naeslundii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02472/full
+Microbacterium paraoxydans,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02473/full
+Microbacterium lacticum*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02474/full
+Atopobium parvulum,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02475/full
+Eggerthella sinensis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02476/full
+Bacillus infantis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02477/full
+Planococcus rifitoensis*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02478/full
+Staphylococcus saprophyticus*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02479/full
+Staphylococcus pettenkoferi,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02480/full
+Staphylococcus sciuri,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02481/full
+Staphylococcus lentus*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02482/full
+Macrococcus caseolyticus,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02483/full
+Campylobacter showae,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02484/full
+Cronobacter sakazakii*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02485/full
+Streptococcus pneumoniae*,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02486/full
+Streptococcus suis,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02487/full
+Fusobacterium nucleatum subsp.vincentii,harmful,,https://www.frontiersin.org/articles/10.3389/fmicb.2020.02488/full
